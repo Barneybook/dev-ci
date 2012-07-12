@@ -1,0 +1,4 @@
+date:下午 06:11 2012/7/12
+1.使用codeigniter 2.1.1 建立測試用的專案
+2.使用PHP內建MAIL跟PHPMailer來撰寫SMTP發信程式使用GMAIL做為測試
+3.
